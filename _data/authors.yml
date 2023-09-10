@@ -47,7 +47,7 @@ mstull:
   initial:      mstull
   name:         "Maria Stull"        
   picture:      /assets/mstull_punting.jpg
-  cover:        /assets/personality_free_colorado.jpg
+  cover:        /assets/robot_wrangler_banner.png
   bio:          Robot Wrangler 
   # location:     Boulder, CO
   website:      "mariastull.github.io" 
